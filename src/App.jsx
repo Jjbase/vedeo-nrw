@@ -1,2 +1,6 @@
-import VedeoNrlLanding from './VedeoLanding.jsx'
-export default function App(){ return <VedeoNrlLanding /> }
+import React from "react";
+import VedeoNrlLanding from "./VedeoNrlLanding";
+
+export default function App() {
+  return <VedeoNrlLanding />;
+}
